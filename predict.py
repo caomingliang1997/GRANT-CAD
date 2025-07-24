@@ -1,1 +1,1 @@
-print("Hello ChatGPT!")
+print("Hello ChatGPT!，请问，我可以在你的帮助下完成研究生毕业设计吗？")
